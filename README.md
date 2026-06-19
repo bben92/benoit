@@ -22,9 +22,10 @@
 
 ## 🛠️ Compétences Clés
 
-**Cloud & IaC :** Azure (Landing Zones, IoT, Fabric) • Terraform • Azure DevOps • GitLab
+**Cloud & IaC :** Azure (Landing Zones, IoT, Fabric) • AKS/Kubernetes (débutant) • Terraform • GitHub (débutant, GitHub Actions) • Azure DevOps • GitLab (débutant)
 **Langages :** Terraform HCL • Bicep • PowerShell • Python • Bash
 **Système & Réseau :** Linux • Cisco • PKI/Certificats • OpenShift • VMWare
+**DevOps :** CI/CD (GitHub Actions • Azure DevOps • GitLab CI)
 **Méthodes :** Agile Scrum/SAFe • Platform Engineering • Architecture Cloud
 **IA & Productivité :** Claude (Anthropic) pour développement, débogage et documentation
 
@@ -36,11 +37,11 @@
 
 **Grand groupe cosmétique international** (Juin 2025 - Juin 2026) - Évolutions plateforme IoT Azure
 
-**Entreprise de gestion de patrimoine** (Mars-Juin 2025) - Migration Move2Cloud avec Azure Migrate + déploiement Microsoft Fabric
+**Entreprise de gestion de patrimoine** (Mars-Juin 2025) - Mission au forfait : migration Move2Cloud avec Azure Migrate + déploiement Microsoft Fabric
 
-**Cabinet d'expertise comptable** (Mars 2025) - Déploiement Microsoft Fabric avec Terraform/Azure DevOps
+**Cabinet d'expertise comptable** (Mars 2025) - Mission au forfait : déploiement Microsoft Fabric avec Terraform/Azure DevOps
 
-**Opérateur télécoms** (Nov 2024-Jan 2025) - Platform Engineering, consultation Microsoft Fabric
+**Opérateur télécoms** (Nov 2024-Jan 2025) - Mission au forfait : Platform Engineering, consultation Microsoft Fabric
 
 **Grand groupe de distribution** (Mars-Nov 2024) - Platform Engineering avec Terraform/GitLab
 
@@ -48,9 +49,9 @@
 
 **Ministère** (Août-Déc 2023) - Gestion de logs Linux/OpenStack
 
-**Maison de mode** (Mai – Juin 2023) - Platform Engineering avec Cloud Booster
+**Maison de mode** (Mai – Juin 2023) - Mission au forfait : Platform Engineering avec Cloud Booster
 
-**Entreprise de services aux entreprises** (Sept 2022-Fév 2023) - Développement Cloud Booster (framework Onepoint Platform Engineering)
+**Entreprise de services aux entreprises** (Sept 2022-Fév 2023) - Mission au forfait : développement Cloud Booster (framework Onepoint Platform Engineering)
 
 **Environnement technique :** Azure (IoT, AKS, Fabric, Migrate) • Azure DevOps • GitLab • Terraform • Python • PowerShell • Jira
 
@@ -97,3 +98,4 @@ Refonte SI • Évolution réseau • Ouverture de 4 sites • Centres d'appels
 ---
 
 *Edition juin 2026*
+
