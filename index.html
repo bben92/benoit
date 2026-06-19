@@ -26,7 +26,6 @@
             box-shadow: 0 0 20px rgba(0,0,0,0.1);
         }
 
-        /* Header */
         .header {
             background: linear-gradient(135deg, #5f849c 0%, #274558 100%);
             color: white;
@@ -55,7 +54,6 @@
             margin-right: 15px;
         }
 
-        /* Main Content */
         .content {
             padding: 25px 40px;
         }
@@ -73,7 +71,6 @@
             border-bottom: 2px solid #5f849c;
         }
 
-        /* Resume Professional */
         .resume-text {
             background: #f8f9fa;
             padding: 12px;
@@ -97,7 +94,6 @@
             font-weight: 600;
         }
 
-        /* Two columns layout */
         .two-columns {
             display: grid;
             grid-template-columns: 1fr 1fr;
@@ -105,7 +101,6 @@
             font-size: 0.9em;
         }
 
-        /* Certifications */
         .cert-list {
             list-style: none;
         }
@@ -125,7 +120,6 @@
             font-weight: bold;
         }
 
-        /* Skills - Compact */
         .skills-compact {
             font-size: 0.9em;
             line-height: 1.6;
@@ -139,7 +133,6 @@
             color: #274558;
         }
 
-        /* Experience - Compact */
         .experiences-compact {
             font-size: 0.9em;
         }
@@ -174,7 +167,6 @@
             line-height: 1.4;
         }
 
-        /* Tags - Smaller */
         .tags-small {
             display: flex;
             flex-wrap: wrap;
@@ -190,14 +182,12 @@
             font-size: 0.75em;
         }
 
-        /* Past experiences - Very compact */
         .past-exp {
             font-size: 0.85em;
             color: #555;
             line-height: 1.5;
         }
 
-        /* Print styles */
         @media print {
             body {
                 background: white;
@@ -214,7 +204,6 @@
             }
         }
 
-        /* Footer */
         .footer {
             background: #f8f9fa;
             padding: 12px 40px;
@@ -227,86 +216,78 @@
 </head>
 <body>
     <div class="container">
-        <!-- Header -->
         <div class="header">
             <h1>Benoît Boucher</h1>
             <h2>Cloud DevOps Engineer</h2>
             <div class="header-info">
                 <span>📍 Nantes, France</span>
-                <span>📅 2 juin 1976 (49 ans)</span>
-                <span>💼 Associate onepoint</span>
-                <span>⏱️ 27 ans d'expérience</span>
+                <span>📅 2 juin 1976 (50 ans)</span>
+                <span>💼 Associate Onepoint</span>
+                <span>⏱️ 28 ans d'expérience</span>
             </div>
         </div>
 
-        <!-- Content -->
         <div class="content">
-            <!-- Résumé Professionnel -->
             <div class="section">
                 <h3 class="section-title">💼 Résumé Professionnel</h3>
                 <div class="resume-text">
-                    <p><strong>Cloud DevOps Engineer</strong> avec 27 ans d'expérience en infrastructures IT, dont 3+ ans spécialisé en <strong>Cloud Azure</strong>, <strong>Terraform</strong> et <strong>Platform Engineering</strong>. Contributeur clé au développement de <strong>Cloud Booster</strong> (framework onepoint de Platform Engineering), certifié <strong>AZ-700</strong> et <strong>AZ-104</strong>, expert en automatisation d'infrastructures et Landing Zones Azure.</p>
-
-                    <p>Expérience réussie dans l'accompagnement de grands groupes (cosmétique, distribution, services financiers, télécoms) dans leurs transformations cloud et migrations Azure. Missions variées : IoT, migration cloud, Microsoft Fabric, Platform Engineering.</p>
-
+                    <p><strong>Cloud DevOps Engineer</strong> avec 28 ans d'expérience en infrastructures IT, dont 3+ ans spécialisé en <strong>Cloud Azure</strong>, <strong>Terraform</strong> et <strong>Platform Engineering</strong>. Contributeur clé au développement de <strong>Cloud Booster</strong> (framework Onepoint de Platform Engineering), certifié <strong>AZ-700</strong> et <strong>AZ-104</strong>, expert en automatisation d'infrastructures et Landing Zones Azure.</p>
+                    <p>Expérience réussie dans l'accompagnement de grands groupes (cosmétique, distribution, gestion de patrimoine, télécoms, mode) dans leurs transformations cloud et migrations Azure.</p>
                     <p class="objective"><strong>Objectif :</strong> Évoluer vers un rôle d'expertise transversale et d'architecture cloud pour concevoir et piloter des solutions innovantes Azure et accompagner les transformations digitales.</p>
                 </div>
             </div>
 
-            <!-- Certifications & Formation -->
             <div class="two-columns">
                 <div class="section">
                     <h3 class="section-title">🏆 Certifications</h3>
                     <ul class="cert-list">
-                        <li><strong>Azure AZ-700</strong> (Network Engineer)</li>
-                        <li><strong>Azure AZ-104</strong> (Administrator)</li>
-                        <li><strong>Terraform Associate</strong></li>
+                        <li><strong>Azure AZ-305</strong> (en cours)</li>
+                        <li><strong>Azure AZ-700</strong> (Avr 2024)</li>
+                        <li><strong>Azure AZ-104</strong> (Jul 2025)</li>
+                        <li><strong>Terraform Associate</strong> (Mar 2024)</li>
                     </ul>
                 </div>
 
                 <div class="section">
                     <h3 class="section-title">🎓 Formation</h3>
                     <ul class="cert-list">
-                        <li><strong>ISAIP</strong> - Bac+4 Info & Réseaux (1998)</li>
-                        <li><strong>BTS</strong> Informatique Industrielle (1996)</li>
+                        <li><strong>ISAIP</strong> - Bac+4 Informatique et Réseaux Industriels (1998)</li>
+                        <li><strong>Lycée La Baronnerie</strong> - BTS Informatique Industrielle (1996)</li>
                     </ul>
                 </div>
             </div>
 
-            <!-- Compétences Clés -->
             <div class="section">
                 <h3 class="section-title">🛠️ Compétences Clés</h3>
                 <div class="skills-compact">
-                    <p><strong>Cloud & IaC :</strong> Azure (Landing Zones, IoT, Fabric) • Terraform • Azure DevOps • Gitlab</p>
-                    <p><strong>Langages :</strong> Terraform HCL • PowerShell • Python • Bash</p>
-                    <p><strong>Système & Réseau :</strong> Linux • Cisco • PKI/Certificats • OpenShift • VMWare</p>
+                    <p><strong>Cloud &amp; IaC :</strong> Azure (Landing Zones, IoT, Fabric) • Terraform • Azure DevOps • GitLab</p>
+                    <p><strong>Langages :</strong> Terraform HCL • Bicep • PowerShell • Python • Bash</p>
+                    <p><strong>Système &amp; Réseau :</strong> Linux • Cisco • PKI/Certificats • OpenShift • VMWare</p>
                     <p><strong>Méthodes :</strong> Agile Scrum/SAFe • Platform Engineering • Architecture Cloud</p>
-                    <p><strong>IA & Productivité :</strong> Claude (Anthropic) pour développement, débogage et documentation</p>
+                    <p><strong>IA &amp; Productivité :</strong> Claude (Anthropic) pour développement, débogage et documentation</p>
                 </div>
             </div>
 
-            <!-- Expériences Récentes -->
             <div class="section">
-                <h3 class="section-title">💼 Expériences Récentes - onepoint (Sept 2022 - Actuellement)</h3>
+                <h3 class="section-title">💼 Expériences Récentes - Onepoint (Sept 2022 - Actuellement)</h3>
                 <div class="experiences-compact">
-
                     <div class="exp-item">
                         <div class="exp-header">
-                            <span class="exp-title">Grand groupe cosmétique international</span> <span class="exp-period">(Juin 2025 - En cours)</span>
+                            <span class="exp-title">Grand groupe cosmétique international</span> <span class="exp-period">(Juin 2025 - Juin 2026)</span>
                         </div>
-                        <div class="exp-desc">Run infrastructure IoT Azure (AKS, PostgreSQL, Service Bus, Azure DevOps, Terraform)</div>
+                        <div class="exp-desc">Évolutions plateforme IoT Azure</div>
                     </div>
 
                     <div class="exp-item">
                         <div class="exp-header">
-                            <span class="exp-title">Entreprise de services financiers</span> <span class="exp-period">(Mars-Juin 2025)</span>
+                            <span class="exp-title">Entreprise de gestion de patrimoine</span> <span class="exp-period">(Mars-Juin 2025)</span>
                         </div>
                         <div class="exp-desc">Migration Move2Cloud avec Azure Migrate + déploiement Microsoft Fabric</div>
                     </div>
 
                     <div class="exp-item">
                         <div class="exp-header">
-                            <span class="exp-title">Entreprise de conseil</span> <span class="exp-period">(Mars 2025)</span>
+                            <span class="exp-title">Cabinet d'expertise comptable</span> <span class="exp-period">(Mars 2025)</span>
                         </div>
                         <div class="exp-desc">Déploiement Microsoft Fabric avec Terraform/Azure DevOps</div>
                     </div>
@@ -315,64 +296,67 @@
                         <div class="exp-header">
                             <span class="exp-title">Opérateur télécoms</span> <span class="exp-period">(Nov 2024-Jan 2025)</span>
                         </div>
-                        <div class="exp-desc">Platform Engineering avec <strong>Cloud Booster</strong>, consultation Microsoft Fabric</div>
+                        <div class="exp-desc">Platform Engineering, consultation Microsoft Fabric</div>
                     </div>
 
                     <div class="exp-item">
                         <div class="exp-header">
                             <span class="exp-title">Grand groupe de distribution</span> <span class="exp-period">(Mars-Nov 2024)</span>
                         </div>
-                        <div class="exp-desc">Platform Engineering avec <strong>Cloud Booster</strong> + Terraform/Gitlab</div>
+                        <div class="exp-desc">Platform Engineering avec Terraform/GitLab</div>
                     </div>
 
                     <div class="exp-item">
                         <div class="exp-header">
-                            <span class="exp-title">Projet interne onepoint</span> <span class="exp-period">(Jan-Fév 2024)</span>
+                            <span class="exp-title">Projet interne Onepoint</span> <span class="exp-period">(Jan-Fév 2024)</span>
                         </div>
-                        <div class="exp-desc">Architecture Cloud, rédaction DAT pour site groupeonepoint.com</div>
+                        <div class="exp-desc">Architecture Cloud, rédaction DAT pour site web Onepoint</div>
                     </div>
 
                     <div class="exp-item">
                         <div class="exp-header">
                             <span class="exp-title">Ministère</span> <span class="exp-period">(Août-Déc 2023)</span>
                         </div>
-                        <div class="exp-desc">Gestion de logs Linux/OpenStack/Terraform</div>
+                        <div class="exp-desc">Gestion de logs Linux/OpenStack</div>
+                    </div>
+
+                    <div class="exp-item">
+                        <div class="exp-header">
+                            <span class="exp-title">Maison de mode</span> <span class="exp-period">(Mai – Juin 2023, 2 mois)</span>
+                        </div>
+                        <div class="exp-desc">Platform Engineering avec Cloud Booster</div>
                     </div>
 
                     <div class="exp-item">
                         <div class="exp-header">
                             <span class="exp-title">Entreprise de services aux entreprises</span> <span class="exp-period">(Sept 2022-Fév 2023)</span>
                         </div>
-                        <div class="exp-desc">Développement <strong>Cloud Booster</strong> (framework onepoint Platform Engineering)</div>
+                        <div class="exp-desc">Développement <strong>Cloud Booster</strong> (framework Onepoint Platform Engineering)</div>
                     </div>
 
                     <div class="tags-small">
                         <span class="tag-small">Azure</span>
                         <span class="tag-small">Terraform</span>
                         <span class="tag-small">Azure DevOps</span>
-                        <span class="tag-small">Gitlab</span>
+                        <span class="tag-small">GitLab</span>
                         <span class="tag-small">Microsoft Fabric</span>
                         <span class="tag-small">Cloud Booster</span>
                         <span class="tag-small">IoT</span>
+                        <span class="tag-small">Jira</span>
                     </div>
                 </div>
             </div>
 
-            <!-- Expériences Antérieures -->
             <div class="section">
                 <h3 class="section-title">📋 Expériences Antérieures</h3>
                 <div class="past-exp">
-                    <p><strong>Inetum / GFI</strong> (Déc 2011 - Mars 2022) : <strong>Grande entreprise publique française</strong> (7 ans) - Coordinateur Technique / Architecte • Cloud privé, PKI, certificats | <strong>Opérateur télécoms</strong> (18 mois) - Coordinateur déploiement ADSL • DSLAM | <strong>Assureur mutualiste</strong> (8 mois) - Intégrateur technique • Extranet, environnements SI | <strong>Transport ferroviaire</strong> (1 an) - Coordinateur déploiement applicatifs/réseau</p>
-
+                    <p><strong>Inetum / GFI</strong> (Déc 2011 - Mars 2022) : <strong>Grande entreprise publique française</strong> (7 ans) - Coordinateur Technique / Architecte • Cloud privé, PKI, certificats | <strong>Opérateur télécoms</strong> - Coordinateur déploiement ADSL • DSLAM Huawei | <strong>Assureur mutualiste</strong> - Intégrateur technique • Extranet, environnements SI | <strong>Transport ferroviaire</strong> - Coordinateur déploiement applicatifs/réseau</p>
                     <p><strong>Technologies :</strong> Cisco (ACI, Nexus) • Juniper • F5 BigIP • OpenShift • VMWare • RedHat</p>
-
-                    <p><strong>ESN</strong> (Fév 2006 - Juin 2011) : Chef de Projets Infrastructures - Pilotage mise en place infrastructures • Refonte SI • Évolution réseau • Ouverture de 4 sites</p>
-
-                    <p><strong>1998-2006 :</strong> <strong>SSII</strong> (Missions en régie : assurance, finance, énergie) | <strong>Groupe industriel</strong> (Gestion WAN groupe 15 pays) | <strong>Groupe agro-alimentaire</strong> (Exploitation parc 200 postes)</p>
+                    <p><strong>Serena</strong> (Fév 2006 - Juin 2011) : Chef de Projets Infrastructures - Pilotage de la mise en place et évolution des infrastructures • Refonte SI • Évolution réseau • Ouverture de 4 sites • Centres d'appels</p>
+                    <p><strong>1998-2006 :</strong> <strong>SSII</strong> (2004-2006) - Missions en régie (assurance, finance, énergie) - migration 6000 postes | <strong>Groupe industriel</strong> (Jan 2003-Fév 2004) - Gestion WAN groupe (15 pays, 50 sites) | <strong>Groupe agro-alimentaire</strong> (1999-2002) - Exploitation parc 200 postes • Coordination équipe | <strong>Université</strong> (1998) - Administration parc bureautique</p>
                 </div>
             </div>
 
-            <!-- Langues -->
             <div class="section">
                 <h3 class="section-title">🌍 Langues</h3>
                 <div class="two-columns">
@@ -382,9 +366,8 @@
             </div>
         </div>
 
-        <!-- Footer -->
         <div class="footer">
-            Edition janvier 2026 • CV Public (Github)
+            Edition juin 2026
         </div>
     </div>
 </body>
