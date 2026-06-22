@@ -8,7 +8,7 @@
 
 ## 💼 Résumé Professionnel
 
-**Cloud DevOps Engineer** avec 28 ans d'expérience en infrastructures IT, dont 3+ ans spécialisé en **Cloud Azure**, **Terraform** et **Platform Engineering**. Contributeur clé au développement de **Cloud Booster** (framework Onepoint de Platform Engineering), certifié **AZ-700** et **AZ-104**, expert en automatisation d'infrastructures et Landing Zones Azure. Expérience réussie dans l'accompagnement de grands groupes (cosmétique, distribution, gestion de patrimoine, télécoms, mode) dans leurs transformations cloud et migrations Azure.
+**Cloud DevOps Engineer** avec 28 ans d'expérience en infrastructures IT, dont 4 ans spécialisé en **Cloud Azure**, **Terraform** et **Platform Engineering** chez Onepoint. Contributeur clé au développement de **Cloud Booster** (framework Onepoint de Platform Engineering), certifié **AZ-700** et **AZ-104**, expert en automatisation d'infrastructures et Landing Zones Azure. Expérience réussie dans l'accompagnement de grands groupes (cosmétique, distribution, gestion de patrimoine, télécoms, mode) dans leurs transformations cloud et migrations Azure.
 
 **Objectif :** Évoluer vers un rôle d'**expertise transversale et d'architecture cloud** pour concevoir et piloter des solutions innovantes Azure et accompagner les transformations digitales.
 
