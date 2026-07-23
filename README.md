@@ -8,7 +8,7 @@
 
 ## 💼 Résumé Professionnel
 
-**Cloud DevOps Engineer** avec 28 ans d'expérience en infrastructures IT, dont 4 ans spécialisé en **Cloud Azure**, **Terraform** et **Platform Engineering** chez Onepoint. Contributeur clé au développement de **Cloud Booster** (framework Onepoint de Platform Engineering), certifié **AZ-700** et **AZ-104**, expert en automatisation d'infrastructures et Landing Zones Azure. Expérience réussie dans l'accompagnement de grands groupes (cosmétique, distribution, gestion de patrimoine, télécoms, mode) dans leurs transformations cloud et migrations Azure.
+**Cloud DevOps Engineer** avec 28 ans d'expérience en infrastructures IT, dont 4 ans spécialisé en **Cloud Azure**, **Terraform** et **Platform Engineering** chez Onepoint. Contributeur clé au développement de **Cloud Booster** (framework Onepoint de Platform Engineering), certifié **AZ-700**, **AZ-104** et **DP-900**, expert en automatisation d'infrastructures et Landing Zones Azure. Expérience réussie dans l'accompagnement de grands groupes (cosmétique, distribution, gestion de patrimoine, télécoms, mode) dans leurs transformations cloud et migrations Azure.
 
 **Objectif :** Évoluer vers un rôle d'**expertise transversale et d'architecture cloud** pour concevoir et piloter des solutions innovantes Azure et accompagner les transformations digitales.
 
@@ -16,7 +16,7 @@
 
 ## 🏆 Certifications
 
-**Azure AZ-305** (en cours) | **Azure AZ-700** (Avr 2024) | **Azure AZ-104** (Jul 2025) | **Terraform Associate** (Mar 2024)
+**Azure AZ-305** (en cours) | **Azure DP-900** (Juil 2026) | **Azure AZ-700** (Avr 2024) | **Azure AZ-104** (Jul 2025) | **Terraform Associate** (Mar 2024)
 
 ---
 
@@ -37,21 +37,21 @@
 
 **Grand groupe cosmétique international** (Juin 2025 - Juin 2026) - Évolutions plateforme IoT Azure
 
-**Entreprise de gestion de patrimoine** (Mars-Juin 2025) - Mission au forfait : migration Move2Cloud avec Azure Migrate + déploiement Microsoft Fabric
+**Entreprise de gestion de patrimoine** (Mars-Juin 2025) - Mission : migration Move2Cloud avec Azure Migrate + déploiement Microsoft Fabric
 
-**Cabinet d'expertise comptable** (Mars 2025) - Mission au forfait : déploiement Microsoft Fabric avec Terraform/Azure DevOps
+**Cabinet d'expertise comptable** (Mars – Juin 2025) - Mission : déploiement Microsoft Fabric avec Terraform/Azure DevOps
 
-**Opérateur télécoms** (Nov 2024-Jan 2025) - Mission au forfait : Platform Engineering, consultation Microsoft Fabric
+**Opérateur télécoms** (Nov 2024-Jan 2025) - Mission : Platform Engineering, consultation Microsoft Fabric
 
 **Grand groupe de distribution** (Mars-Nov 2024) - Platform Engineering avec Terraform/GitLab
 
 **Projet interne Onepoint** (Jan-Fév 2024) - Architecture Cloud, rédaction DAT pour site web Onepoint
 
-**Ministère** (Août-Déc 2023) - Gestion de logs Linux/OpenStack
+**Ministère** (Août-Déc 2023) - Centralisation de logs Linux/OpenStack
 
-**Maison de mode** (Mai – Juin 2023) - Mission au forfait : Platform Engineering avec Cloud Booster
+**Maison de mode** (Mai – Juin 2023) - Mission : Platform Engineering avec Cloud Booster
 
-**Entreprise de services aux entreprises** (Sept 2022-Fév 2023) - Mission au forfait : développement Cloud Booster (framework Onepoint Platform Engineering)
+**Entreprise de services aux entreprises** (Sept 2022-Fév 2023) - Mission : Platform Engineering (Cloud Booster, framework Onepoint)
 
 **Environnement technique :** Azure (IoT, AKS, Fabric, Migrate) • Azure DevOps • GitLab • Terraform • Python • PowerShell • Jira
 
@@ -97,5 +97,5 @@ Refonte SI • Évolution réseau • Ouverture de 4 sites • Centres d'appels
 
 ---
 
-*Edition juin 2026*
+*Edition juillet 2026*
 
