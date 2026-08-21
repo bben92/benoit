@@ -8,7 +8,7 @@
 
 ## 💼 Résumé Professionnel
 
-**Cloud DevOps Engineer** avec 28 ans d'expérience en infrastructures IT, dont 4 ans spécialisé en **Cloud Azure**, **Terraform** et **Platform Engineering** chez Onepoint. Contributeur clé au développement de **Cloud Booster** (framework Onepoint de Platform Engineering), certifié **AZ-700**, **AZ-104** et **DP-900**, expert en automatisation d'infrastructures et Landing Zones Azure. Expérience réussie dans l'accompagnement de grands groupes (cosmétique, distribution, gestion de patrimoine, télécoms, mode) dans leurs transformations cloud et migrations Azure.
+**Cloud DevOps Engineer** avec 28 ans d'expérience en infrastructures IT, dont 4 ans spécialisé en **Cloud Azure**, **Terraform** et **Platform Engineering** chez Onepoint. Contributeur clé au développement de **Cloud Booster** (framework Onepoint de Platform Engineering), certifié **AZ-700**, **AZ-104**, **DP-900** et **AI-901**, expert en automatisation d'infrastructures et Landing Zones Azure. Expérience réussie dans l'accompagnement de grands groupes (cosmétique, distribution, gestion de patrimoine, télécoms, mode) dans leurs transformations cloud et migrations Azure.
 
 **Objectif :** Évoluer vers un rôle d'**expertise transversale et d'architecture cloud** pour concevoir et piloter des solutions innovantes Azure et accompagner les transformations digitales.
 
@@ -16,7 +16,7 @@
 
 ## 🏆 Certifications
 
-**Azure AZ-305** (en cours) | **Azure DP-900** (Juil 2026) | **Azure AZ-700** (Avr 2024) | **Azure AZ-104** (Jul 2025) | **Terraform Associate** (Mar 2024)
+**Azure AZ-305** (en cours) | **Azure AI-901** (Août 2026) | **Azure DP-900** (Juil 2026) | **Azure AZ-700** (Avr 2024) | **Azure AZ-104** (Jul 2025) | **Terraform Associate** (Mar 2024)
 
 ---
 
@@ -97,5 +97,4 @@ Refonte SI • Évolution réseau • Ouverture de 4 sites • Centres d'appels
 
 ---
 
-*Edition juillet 2026*
-
+*Edition août 2026*
